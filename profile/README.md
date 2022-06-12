@@ -7,6 +7,8 @@
   
 </div>
 
+[⛓️𝙎𝙪𝙥𝙥𝙤𝙧𝙩✘ᥫʙs᭡](https://t.me/Rexomasupport)
 
-## [⛓️𝙎𝙪𝙥𝙥𝙤𝙧𝙩✘ᥫʙs᭡](https://t.me/Rexomasupport)•[⛓️𝙐𝙥𝙙𝙖𝙩𝙚𝙨✘ᥫʙs᭡](https://t.me/Rexomaupdate) 
+
+[⛓️𝙐𝙥𝙙𝙖𝙩𝙚𝙨✘ᥫʙs᭡](https://t.me/Rexomaupdate) 
 
