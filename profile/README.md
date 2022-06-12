@@ -1,12 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <a alt="icon" href="https://Rexoma.me">
+    <img align="center" src="https://avatars.githubusercontent.com/u/5327214" width="96" />
+  </a>
+  <h1>Hi there, the name's ReXoma!</h1>
+  <h3>Technically, I am a Noob 🧙🏾‍♂️</h3>
+  
+</div>
 
-<!--
 
-**Here are some ideas to get you started:**
+## Stats for Nerds
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+<!-- Credit: https://github.com/Rexoma/github-readme-stats -->
+<div align="center">
+<a href="https://github.com/Rexoma/github-readme-stats">
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=funkeyfreak&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
+</a>
+<a href="https://github.com/Rexoma/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexoma&layout=compact&langs_count=6&theme=dracula" />
+</a>
+</div>
